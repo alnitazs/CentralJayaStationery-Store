@@ -191,6 +191,7 @@
                     <ul>
                         <li><a href="https://wa.me/089692292332">WhatsApp</a></li>
                         <li><a href="https://www.facebook.com/share/198DKLQaoa/">Facebook</a></li>
+                        <li><a href="https://www.instagram.com/centraljaya.sstore?igsh=cjZ1MWd6OHd2ODIx">Instagram</a></li>
                     </ul>
                 </div>
             </div>
